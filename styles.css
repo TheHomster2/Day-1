@@ -9,6 +9,7 @@ p{
 	font-family: futura;
 	font-size: 20px;
 	color: #39FF14;
+	display: none;
 }
 br {
     display: none;
