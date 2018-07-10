@@ -10,3 +10,6 @@ p{
 	font-size: 20px;
 	color: #39FF14;
 }
+br {
+    display: none;
+}
