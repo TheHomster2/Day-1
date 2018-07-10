@@ -1,6 +1,12 @@
-body {background-color: coral;}
+body {background-color: black;}
+h1{
+	color:#39FF14;
+}
+h2{
+	color: #39FF14;
+}
 p{
 	font-family: futura;
 	font-size: 20px;
-	color: red;
+	color: #39FF14;
 }
