@@ -1,3 +1,6 @@
+body {background-color: coral;}
 p{
-	
+	font-family: futura;
+	font-size: 20px;
+	color: red;
 }
